@@ -7,7 +7,7 @@ public class Demo {
 	}
 public static int summation(int n)
 {
-int result = (n * (n-1))/2;
+int result = (n * (n/1))/2;
 return result;
 }
 }
