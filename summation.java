@@ -2,7 +2,7 @@
 public class summation {
 		public static void main(String[] args)
 		{
-		int input = 150;
+		int input = 1400;
 		int finalResult = summation(input);
 		}
 	public static int summation(int n)
